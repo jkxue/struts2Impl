@@ -1,1 +1,5 @@
 Git is a destributed opensource and free version control system.
+Git working directory
+stage/index
+HEAD
+Git trace changes
