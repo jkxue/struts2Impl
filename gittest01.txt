@@ -3,3 +3,4 @@ Git working directory
 stage/index
 HEAD
 Git trace changes of files.
+eclipse
